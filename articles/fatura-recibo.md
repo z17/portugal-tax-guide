@@ -21,7 +21,7 @@
 
 1. Идем сюда https://irs.portaldasfinancas.gov.pt/recibos/portal/ 
 2. Жмем `Emitir` или переходим сюда https://irs.portaldasfinancas.gov.pt/recibos/portal/emitir
-3. Жмем `Fatura ou Fatura-Recibo` или переходим сюда
+3. Жмем `Fatura ou Fatura-Recibo`
 4. Выбираем дату поступления денег `Data da transação` и `Tipo:` `Fatura-Recibo`
 5. Блок `Transmitente`: проверяете данные и выбираете нужный вам `Atividade exercida` - это деятельность, по которой вы выписываете ресиба-фатуру
 6. Блок `Adquirente`:
@@ -42,4 +42,4 @@
    * `Taxa IVA` - это ставка НДС, выбираем 0%
    * `Motivo de Isenção` - это причина, почему ставка НДС 0%, выбираем `IVA - autoliquidação - Artigo 6.º n.º 6 alínea a) do CIVA, a contrário` - если ваш заказчик в ЕС и есть в системе VIES
    * Жмем `GUARDAR` - синяя кнопка внизу окна
-9. На этом всё, жмем `EMITIR` и ресиба будет выписана
+9. На этом всё, жмем `EMITIR`, проверяем данные в появившимся окне, подтверждаем.
