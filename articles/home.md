@@ -11,6 +11,7 @@
 Если вы нашли неточность — сообщите, пожалуйста. Если есть силы доработать любую из статей или добавить новую — буду рад, исходники на github. 
 
 ## Разделы
+- Обзор
 - ИП / Atividade independente
   - [Общая информация](?page=atividade-independente-info)
   - [Что такое и как выпускать Fatura-Recibo](?page=fatura-recibo)
@@ -23,8 +24,9 @@
   - [Что такое и как подать Declaração Recapitulativa do IVA](?page=recapulativa-iva)
   - Что такое и как подать Declaração periódica do IVA
 - Социальный налог
-  - Общая информация
+  - [Общая информация](?page=seg-social)
   - Как подать Declaração trimestral à Segurança Social
+  - Как и когда платить
 
 
 
