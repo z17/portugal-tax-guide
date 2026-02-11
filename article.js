@@ -27,7 +27,7 @@ async function loadArticle() {
     } catch (error) {
         articleContent.innerHTML = `
             <h1>Ошибка</h1>
-            <p>Не удалось загрузить статью. ${error.message}</p>
+            <p>${error.message}</p>
             <p><a href="/">Вернуться на главную</a></p>
         `;
     }
