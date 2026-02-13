@@ -40,9 +40,16 @@ nav {
 }
 
 .logo {
+}
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
     font-size: 1.25rem;
     font-weight: 600;
     color: #2c3e50;
+    gap: .5rem;
 }
 
 .nav-menu {
@@ -225,5 +232,11 @@ footer {
     .footer-content {
         flex-direction: column;
     }
+}
+
+.header-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
 }
 

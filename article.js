@@ -28,7 +28,7 @@ async function loadArticle() {
         articleContent.innerHTML = `
             <h1>Ошибка</h1>
             <p>${error.message}</p>
-            <p><a href="/">Вернуться на главную</a></p>
+            <p><a href="?">Вернуться на главную</a></p>
         `;
     }
 }
