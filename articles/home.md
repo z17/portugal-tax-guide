@@ -24,7 +24,7 @@
   - Что такое и как подать Declaração periódica do IVA
 - Социальный налог
   - [Общая информация](?page=seg-social)
-  - Как подать Declaração trimestral à Segurança Social
+  - Как и когда подавать Declaração trimestral à Segurança Social
   - Как и когда платить
 
 
