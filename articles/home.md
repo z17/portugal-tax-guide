@@ -25,7 +25,7 @@
 - Социальный налог
   - [Общая информация](?page=seg-social)
   - Как и когда подавать Declaração trimestral à Segurança Social
-  - Как и когда платить
+  - [Как и когда платить](?page=seg-social-payment)
 
 
 
