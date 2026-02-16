@@ -183,6 +183,14 @@ article pre code {
 .article-card h3 {
     margin-top: 0;
 }
+.container table {
+    width: 100%;
+    margin: 25px 0;
+}
+.container table td, .container table th {
+    padding: 5px 10px;
+    border-bottom:1px solid #e0e0e0;
+}
 
 .article-meta {
     color: #999;
