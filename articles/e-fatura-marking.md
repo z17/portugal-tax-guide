@@ -18,7 +18,7 @@
 1. https://faturas.portaldasfinancas.gov.pt/resolverListaPendenciasAdquirenteForm.action открываем страницу
 2. снизу страницы находим `registos por página` и выбираем максимальное значение, чтобы видеть максимум счетов за раз
 3. у каждой строки таблицы выбираем `Atividade de Realização da Aquisição` и `No Âmbito da Atividade Profissional?`
-![fatura-marking-example.png](../img/fatura-marking-example.png)
+![fatura-marking-example.png](img/fatura-marking-example.png)
    *  При каждом выборе вас спросят `Pretende remover o mesmo âmbito..` / `Pretende remover o mesmo setor..` - хотите ли выбрать то же самое для всех остальных счетов от той же организации 
    * `Atividade de Realização da Aquisição` - категория или тип счета. По их иконкам +- понятно о чем речь, но:
      * `Saude` - Здоровье: враче, аптеки и прочее
