@@ -14,15 +14,13 @@
   - [Как и зачем размечать траты по категориям](?page=e-fatura-marking)
 - IRS
   - [Общая информация](?page=irs) 
+  - Как и когда подавать Declaração de Rendimentos Modelo 3 de IRS
 - IVA
   - Общая информация
   - [Что такое и как подать Declaração Recapitulativa do IVA](?page=recapulativa-iva)
   - Что такое и как подать Declaração periódica do IVA
 - Социальный налог
   - [Общая информация](?page=seg-social)
-  - Как и когда подавать Declaração trimestral à Segurança Social
+  - [Как и когда подавать Declaração trimestral à Segurança Social](?page=seg-social-trimestral)
   - [Как и когда платить](?page=seg-social-payment)
-
-
-
 
