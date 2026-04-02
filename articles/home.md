@@ -18,7 +18,7 @@
 - IVA
   - Общая информация
   - [Что такое и как подать Declaração Recapitulativa do IVA](?page=recapulativa-iva)
-  - Что такое и как подать Declaração periódica do IVA
+  - [Что такое и как подать Declaração periódica do IVA](?page=periodica-iva)
 - Социальный налог
   - [Общая информация](?page=seg-social)
   - [Как и когда подавать Declaração trimestral à Segurança Social](?page=seg-social-trimestral)

@@ -25,7 +25,13 @@
 Пример: открыл ИП в мае 2024, льгота действует до мая 2025, за май 2025 уже нужно платить. За май и июнь 2025 года — минимальные взносы. Июль 2025 года — первая декларация за Q2 (апрель-июнь) 2025 
 
 
-
 ### Как
-
-< todo >
+- Идём сюда https://www.seg-social.pt/ptss/qlf/trabalhadores-independentes/registar-declaracao
+  - альтернатива: https://www.seg-social.pt/ -> Trabalho -> Remunerações e contribuições -> Trabalhadores independentes -> Mostrar ações disponíveis -> Entregar declaração trimestral
+- `Tem rendimentos a declarar respeitantes ..` : Sim. Это вопрос, есть ли у вас доход для декларации
+- Открываем вкладку `Prestação de serviços` - услуги - заполняем суммы из фатур по месяцам, в графу `Prestação de serviços`. Вторая графа про доход из-за границы
+  - там есть и другие разделы доходов, но мы тут только про услуги
+  - жмём `Próximo passo`
+- `Pretende que sejam considerados os subsídios, mais valias e/ou propriedade intelectual ou industrial?` : Não - это про субсидии и какие-то доп доходы. Жмём `Próximo passo`
+- На следующей странице видим расчёт ежемесячного взноса. Под `Escolher percentagem de variação` можно указать снижение/увеличение на +-25% налоговой базы, делаем это
+- Жмём `Entregar declaração` - готово!
