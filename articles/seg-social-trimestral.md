@@ -25,7 +25,7 @@
 Пример: открыл ИП в мае 2024, льгота действует до мая 2025, за май 2025 уже нужно платить. За май и июнь 2025 года — минимальные взносы. Июль 2025 года — первая декларация за Q2 (апрель-июнь) 2025 
 
 
-### Как
+### Как подавать
 - Идём сюда https://www.seg-social.pt/ptss/qlf/trabalhadores-independentes/registar-declaracao
   - альтернатива: https://www.seg-social.pt/ -> Trabalho -> Remunerações e contribuições -> Trabalhadores independentes -> Mostrar ações disponíveis -> Entregar declaração trimestral
 - `Tem rendimentos a declarar respeitantes ..` : Sim. Это вопрос, есть ли у вас доход для декларации
