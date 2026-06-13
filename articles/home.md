@@ -14,7 +14,7 @@
   - [Как и зачем размечать траты по категориям](?page=e-fatura-marking)
 - IRS
   - [Общая информация](?page=irs) 
-  - Как и когда подавать Declaração de Rendimentos Modelo 3 de IRS
+  - [Как и когда подавать Declaração de Rendimentos Modelo 3 de IRS](?page=irs-declaracao)
 - IVA
   - Общая информация
   - [Что такое и как подать Declaração Recapitulativa do IVA](?page=recapulativa-iva)
