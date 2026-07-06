@@ -20,12 +20,12 @@
 Источник: [Artigo 41.º](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx)
 
 ### Ссылки
-- https://iva.portaldasfinancas.gov.pt/dpiva/portal - общее
-- https://iva.portaldasfinancas.gov.pt/dpiva/portal/consultar-declaracao - список предыдущих
+- https://iva.portaldasfinancas.gov.pt/dpiva/portal/ - общее
+- https://iva.portaldasfinancas.gov.pt/dpiva/portal/consultar-declaracao/ - список предыдущих
 
 
 ### Как подавать
-- https://iva.portaldasfinancas.gov.pt/dpiva/portal переходим, жмём `Entregar`
+- https://iva.portaldasfinancas.gov.pt/dpiva/portal/ переходим, жмём `Entregar`
 - Заголовок `Entregar Declaração` - проверяем под ним свой NIF, год и квартал, за который подаём
 - Выбираем `Continuar sem pré-preenchimento` (не предзаполнять) или `Pré-preencher` (предзаполнить). Я выбираю первое, но наверно результат одинаковый
 - Страница `0 Início`

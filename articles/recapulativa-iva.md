@@ -18,13 +18,13 @@
 - не позднее 20-ого числа следующего месяца (если поквартально — то за первый квартал до 20ого апреля и тд) 
 
 ### Ссылки
-- https://iva.portaldasfinancas.gov.pt/driva/portal — общий раздел
-- https://iva.portaldasfinancas.gov.pt/driva/portal/consultar-declaracao — тут можно посмотреть старые декларации
+- https://iva.portaldasfinancas.gov.pt/driva/portal/ — общий раздел
+- https://iva.portaldasfinancas.gov.pt/driva/portal/consultar-declaracao/ — тут можно посмотреть старые декларации
 
 ### Как подавать
 Инструкция применима, если вы оказываете услуги и ваши контрагенты — компании в ЕС, но не в Португалии. И вы, и они, зарегистрированы в системе VIES (Португальские ИП там вроде автоматически, но лучше проверить)
 
-- https://iva.portaldasfinancas.gov.pt/driva/portal переходим, нажимаем "Entregar"
+- https://iva.portaldasfinancas.gov.pt/driva/portal/ переходим, нажимаем "Entregar"
 - Попадаем на `Quadro 01` - проверяем свой NIF
 - Выбираем слева `Quadro 02` 
   - `Tipo de declaração`: `Primeira` (первичная декларация)
