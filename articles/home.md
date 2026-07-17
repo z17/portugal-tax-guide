@@ -15,6 +15,7 @@
 - IRS
   - [Общая информация](?page=irs) 
   - [Как и когда подавать Declaração de Rendimentos Modelo 3 de IRS](?page=irs-declaracao)
+  - [Как и когда оплачивать](?page=irs-payment)
 - IVA
   - Общая информация
   - [Что такое и как подать Declaração Recapitulativa do IVA](?page=recapulativa-iva)
